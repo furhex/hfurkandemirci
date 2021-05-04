@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hfurkandemirci
 - 👀 Web Sİte yapmakla ilgileniyorum.
 - 🌱 Node js (discord bot) yapmayı öğreniyorum.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Bana ulaşırsın https://discord.gg/E9hvvdgQwk
 
 <!---
