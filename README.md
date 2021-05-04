@@ -1,5 +1,5 @@
 - 👋 Merhaba ben @furkandemirci
-- 👀 Web Sİte yapmakla ilgileniyorum.
+- 👀 Web Site yapmakla ilgileniyorum.
 - 🌱 Node js (discord bot) yapmayı öğreniyorum.
 - 📫 Bana ulaşırsın https://discord.gg/E9hvvdgQwk
 
